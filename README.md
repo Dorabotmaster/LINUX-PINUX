@@ -19,7 +19,7 @@ python3 pinux.py
 - black arch
 - cent is
 - andrax(coming soon)
-#About
+# About
 This is a basic script to install proot distros on Android
 Some sources are used without permission sorry about that please check the credits
 This tool provides you all available distros in one repository
