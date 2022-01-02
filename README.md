@@ -9,16 +9,16 @@ python3 pinux.py
 # Available distros
 -Alpine
 
--kali
--fedora
--parrot
--ubuntu
--debian
--nethunter
--termux desktop
--black arch
--cent is
--andrax(coming soon)
+- kali
+- fedora
+- parrot
+- ubuntu
+- debian
+- nethunter
+- termux desktop
+- black arch
+- cent is
+- andrax(coming soon)
 #About
 This is a basic script to install proot distros on Android
 Some sources are used without permission sorry about that please check the credits
